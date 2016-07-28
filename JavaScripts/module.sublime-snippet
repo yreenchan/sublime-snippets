@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+module.exports = {
+	${1}
+};
+]]></content>
+	<tabTrigger>module</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
